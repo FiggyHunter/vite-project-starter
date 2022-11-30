@@ -1,0 +1,24 @@
+{
+  "name": "damijs-objasnjava",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "build" : "cd ./vite-js && npm run build",
+    "install": "cd ./vite-js && npm install",
+    "dev" : "cd ./vite-js && npm run dev",
+    "preview" : "cd ./vite-js && npm run preview",
+    "run" : "npm test.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiggyHunter/vite-project-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FiggyHunter/vite-project-starter/issues"
+  },
+  "homepage": "https://github.com/FiggyHunter/vite-project-starter#readme"
+}

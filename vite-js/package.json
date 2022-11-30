@@ -1,0 +1,15 @@
+{
+  "name": "vite-js",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config ../config.js --host",
+    "build": "vite build --config ../config.js",
+    "preview": "vite preview --config ../config.js"
+  },
+  "devDependencies": {
+    "sass": "^1.56.1",
+    "vite": "^3.2.3"
+  }
+}
